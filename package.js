@@ -2,7 +2,7 @@ Package.describe({
   name: 'hpp:ytbgplayer',
   version: '1.0.0',
   // Brief, one-line summary of the package.
-  summary: 'Make YouTube videos into backgrounds while having full access to the YouTube API.'
+  summary: 'Make YouTube videos into backgrounds while having full access to the YouTube API.',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/fuzzybabybunny/Meteor-YTBGPlayer.git',
   // By default, Meteor will default to using README.md for documentation.
